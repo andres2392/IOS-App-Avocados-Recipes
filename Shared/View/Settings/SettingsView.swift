@@ -59,17 +59,17 @@ struct SettingsView: View {
             HStack {
               Text("Developer").foregroundColor(Color.gray)
               Spacer()
-              Text("John / Jane")
+              Text("Andres")
             }
             HStack {
               Text("Designer").foregroundColor(Color.gray)
               Spacer()
-              Text("Robert Petras")
+              Text("Andres Gonzalez")
             }
             HStack {
               Text("Website").foregroundColor(Color.gray)
               Spacer()
-              Text("swiftuimasterclass.com")
+              Text("aigonzalez.dev")
             }
             HStack {
               Text("Version").foregroundColor(Color.gray)
